@@ -6,10 +6,8 @@ node_modules/
 /public/hot
 /storage/*.key
 /.idea
-Homestead.json
-Homestead.yaml
 .env
-bootstrap/cache/
+
 
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
